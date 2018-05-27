@@ -1,8 +1,8 @@
-# flutter_playground
+# Flutter Animation Playground 
 
-A new Flutter project.
+You can learn about animations in Flutter at https://flutter.io/animations/
 
-## Getting Started
+## Getting Started With Flutter 
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
